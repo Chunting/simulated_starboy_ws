@@ -1,3 +1,3 @@
 #!/bin/bash
 source devel/setup.bash
-roslaunch simStarboy.launch
+roslaunch simStarboy.launch pipeline:=ompl
